@@ -21,13 +21,14 @@ def ans(word, abbr):
             elif 'a' <= abbr[j] <= 'z':
                 return False
             elif '1' <= abbr[j] <= '9':
-                num_str = ''
+                # num_str = ''
+                start_idx = j
                 
                 while j < M and '0' <= abbr[j] <= '9':
-                    num_str += abbr[j]
+                    # num_str += abbr[j]        # TC = O(n) as string is immutable        
                     j+=1
                 
-                num = int(num_str)
+                num = int(abbr[start_idx:j])
                 i += num
 
     if i == N and j == M:
