@@ -12,28 +12,63 @@ import sys
 class MinStack:
 
     def __init__(self):
-        self.s = deque()
+        self.stack = deque()
         self.minV = sys.maxsize
 
     def push(self, val: int) -> None:
-        if val < self.minV:
-            self.minV = val
-        self.s.append((val, self.minV))
-
-    def pop(self) -> None:
-        self.s.pop()
+        self.minV = min(self.minV, val)
+        self.stack.append((val, self.minV))
         
-        '''Both these lines save you from edge cases'''
-        if len(self.s) == 0:
+    def pop(self) -> None:
+        self.stack.pop()
+
+        if len(self.stack) == 0:
             self.minV = sys.maxsize
         else:
-            self.minV = self.s[-1][1]
+            self.minV = self.stack[-1][1]
             
     def top(self) -> int:
-        return self.s[-1][0]
+        return self.stack[-1][0]
         
     def getMin(self) -> int:
-        return self.s[-1][1]
+        return self.minV
+
+
+
+
+
+
+
+
+
+# from collections import deque
+# import sys
+
+# class MinStack:
+
+#     def __init__(self):
+#         self.s = deque()
+#         self.minV = sys.maxsize
+
+#     def push(self, val: int) -> None:
+#         if val < self.minV:
+#             self.minV = val
+#         self.s.append((val, self.minV))
+
+#     def pop(self) -> None:
+#         self.s.pop()
+        
+#         '''Both these lines save you from edge cases'''
+#         if len(self.s) == 0:
+#             self.minV = sys.maxsize
+#         else:
+#             self.minV = self.s[-1][1]
+            
+#     def top(self) -> int:
+#         return self.s[-1][0]
+        
+#     def getMin(self) -> int:
+#         return self.s[-1][1]
 
 # Your MinStack object will be instantiated and called as such:
 # obj = MinStack()
