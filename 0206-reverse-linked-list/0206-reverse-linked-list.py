@@ -38,7 +38,7 @@ class Solution:
         return c
 
 def aug02_25(head):
-
+    '''TC = n, SC = 1'''
     prev = None
     cur = head
 
