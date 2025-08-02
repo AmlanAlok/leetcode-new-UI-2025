@@ -10,6 +10,7 @@ from collections import deque
 import sys
 
 class MinStack:
+    '''TC = 1, SC = n'''
 
     def __init__(self):
         self.stack = deque()
