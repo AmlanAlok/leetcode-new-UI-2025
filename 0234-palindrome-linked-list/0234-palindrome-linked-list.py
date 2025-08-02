@@ -31,9 +31,8 @@ def aug01_25(head):
 
 def aug02_25(head):
     '''TC = n, SC = 1'''
-    
+
     def reverse_list(head):
-        
         prev = None
         cur = head
 
@@ -45,16 +44,20 @@ def aug02_25(head):
         
         return prev
 
+    def end_of_first(head):
+        slow, fast = head, head
+
+        while fast.next and fast.next.next:
+            slow = slow.next
+            fast = fast.next.next
+        
+        return slow
+
     if head is None:
         return True
-
-    slow, fast = head, head
-
-    while fast.next and fast.next.next:
-        slow = slow.next
-        fast = fast.next.next
     
-    head2 = reverse_list(slow.next)
+    end_list1 = end_of_first(head)
+    head2 = reverse_list(end_list1.next)
     
     cur1, cur2 = head, head2
 
@@ -63,6 +66,8 @@ def aug02_25(head):
             return False
         cur1 = cur1.next
         cur2 = cur2.next
+
+    end_list1.next = reverse_list(head2)
     
     return True
 
