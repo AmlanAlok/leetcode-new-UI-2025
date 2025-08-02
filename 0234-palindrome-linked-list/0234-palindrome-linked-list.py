@@ -7,7 +7,7 @@ from collections import deque
 #         self.next = next
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
-        return aug01_25(head)
+        return aug02_25(head)
 
 def aug01_25(head):
     '''TC = n, SC = n'''
@@ -16,13 +16,6 @@ def aug01_25(head):
     t = []
 
     while head:
-        # print(head.val)
-        # if stack:
-        #     if stack[-1] == head.val:
-        #         stack.pop()
-        #         head = head.next
-        #         continue
-        # stack.append(head.val)
         t.append(head.val)
         head = head.next
 
@@ -35,6 +28,47 @@ def aug01_25(head):
         j -= 1
     
     return True
+
+def aug02_25(head):
+    '''TC = n, SC = 1'''
+    
+    def reverse_list(head):
+        
+        prev = None
+        cur = head
+
+        while cur:
+            temp = cur.next
+            cur.next = prev
+            prev = cur
+            cur = temp
+        
+        return prev
+
+    if head is None:
+        return True
+
+    slow, fast = head, head
+
+    while fast.next and fast.next.next:
+        slow = slow.next
+        fast = fast.next.next
+    
+    head2 = reverse_list(slow.next)
+    
+    cur1, cur2 = head, head2
+
+    while cur1 and cur2:
+        if cur1.val != cur2.val:
+            return False
+        cur1 = cur1.next
+        cur2 = cur2.next
+    
+    return True
+
+    
+    
+
 
 '''
 [1,2,2,1]
