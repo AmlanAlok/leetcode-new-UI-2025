@@ -19,7 +19,7 @@ def aug02_25(s):
     return 0
 
 def aug01_25(s):
-
+    '''TC = n, SC = n'''
     stack = deque()
     stack.append(-1)
     maxlen = 0
