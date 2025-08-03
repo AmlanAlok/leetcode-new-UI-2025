@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0032-longest-valid-parentheses) |
 | [0408-valid-word-abbreviation](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0408-valid-word-abbreviation) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -35,4 +37,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
