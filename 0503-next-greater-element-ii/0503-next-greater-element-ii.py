@@ -1,4 +1,5 @@
 from collections import deque
+
 class Solution:
     def nextGreaterElements(self, nums: List[int]) -> List[int]:
         return aug03_25(nums)
