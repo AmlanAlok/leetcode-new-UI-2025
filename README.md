@@ -22,6 +22,7 @@
 | [0155-min-stack](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0503-next-greater-element-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Linked List
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +56,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
