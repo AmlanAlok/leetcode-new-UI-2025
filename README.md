@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -57,4 +58,16 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0503-next-greater-element-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
