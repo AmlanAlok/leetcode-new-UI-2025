@@ -11,7 +11,7 @@ def aug08_25(image, sr, sc, color):
     R, C = len(image), len(image[0])
     cur = image[sr][sc]
 
-    if cur == color:
+    if cur == color:              # If current color is same as new color, it will lead to infinite recursion
         return image
     
     def dfs(r, c):
@@ -31,4 +31,13 @@ def aug08_25(image, sr, sc, color):
 
     return image
 
+
+'''
+No Early Termination Check:
+Originally, this check prevents unnecessary recursion if the newColor is the same as the starting pixel's color (color).
+Without it, the code will proceed to DFS even if newColor == color, leading to redundant recursive calls.
+Stack Overflow Risk (Infinite Recursion):
+If newColor == color, the DFS will keep revisiting the same pixels and flipping them between color and newColor (which are the same).
+This causes infinite recursion, eventually leading to a stack overflow (or a RecursionError in Python).
+'''
 
