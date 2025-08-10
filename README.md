@@ -62,11 +62,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0101-symmetric-tree) |
 | [0463-island-perimeter](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0101-symmetric-tree) |
 | [0463-island-perimeter](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0733-flood-fill) |
 ## Matrix
@@ -74,4 +76,12 @@
 | ------- |
 | [0463-island-perimeter](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0733-flood-fill) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
