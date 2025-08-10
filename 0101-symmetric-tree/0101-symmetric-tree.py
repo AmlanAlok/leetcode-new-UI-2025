@@ -46,10 +46,8 @@ def aug10_25(root):
         if x is None and y is None:
             continue
         if x is None or y is None:
-            print(x, y)
             return False
         if x.val != y.val:
-            print('p', x, y)
             return False
         
         q.append(x.left)
