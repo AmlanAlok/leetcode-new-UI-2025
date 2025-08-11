@@ -63,12 +63,14 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0733-flood-fill) |
 ## Matrix
@@ -80,8 +82,10 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
