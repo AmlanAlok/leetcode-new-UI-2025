@@ -10,7 +10,8 @@ class Solution:
 
 
 def aug10_25(root):
-
+    '''Recursion, TC = n, SC = n in worst case and log(n) in best case'''
+    
     if root is None:
         return 0
     
@@ -20,7 +21,7 @@ def aug10_25(root):
     return max(l, r) + 1
 
 
-    
+
 def max_depth(root: TreeNode):
     
     if root.left is None and root.right is None:
