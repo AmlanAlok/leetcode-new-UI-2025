@@ -10,20 +10,21 @@ class Solution:
 
 def aug09_25(root):
     '''Recursive, TC = n, SC = n where n = total nodes in the tree'''
-    return ismirror(root, root)
-
-def ismirror(x, y):
-
-    if x is None and y is None:
-        return True
-    if x is None or y is None:
-        return False
     
-    return (
-        (x.val == y.val) 
-        and ismirror(x.right, y.left) 
-        and ismirror(x.left, y.right)
-    )
+    def ismirror(x, y):
+
+        if x is None and y is None:
+            return True
+        if x is None or y is None:
+            return False
+        
+        return (
+            (x.val == y.val) 
+            and ismirror(x.right, y.left) 
+            and ismirror(x.left, y.right)
+        )
+    
+    return ismirror(root, root)
 
 '''
 [1,2,2,3,4,4,3]
