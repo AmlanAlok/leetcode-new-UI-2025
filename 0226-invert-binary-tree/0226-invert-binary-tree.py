@@ -9,7 +9,7 @@ class Solution:
         return aug10_25(root)
 
 def aug10_25(root):
-    
+    '''TC = n, SC = n, where n = num of nodes in tree'''
     if root:
         root.left, root.right = aug10_25(root.right), aug10_25(root.left)
 
