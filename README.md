@@ -28,6 +28,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -38,6 +39,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0155-min-stack) |
 ## Dynamic Programming
 |  |
@@ -53,6 +55,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -96,4 +99,8 @@
 | [0101-symmetric-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0226-invert-binary-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
