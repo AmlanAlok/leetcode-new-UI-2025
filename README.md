@@ -19,6 +19,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0496-next-greater-element-i) |
@@ -65,6 +66,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -88,6 +90,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -95,6 +98,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0104-maximum-depth-of-binary-tree) |
