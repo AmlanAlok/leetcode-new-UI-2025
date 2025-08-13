@@ -55,6 +55,9 @@ def aug13_25(root):
 
     levels = []
 
+    if root is None:
+        return levels
+
     def helper(node, depth):
 
         if len(levels) == depth:
@@ -67,8 +70,7 @@ def aug13_25(root):
         if node.right:
             helper(node.right, depth + 1)
 
-    if root:
-        helper(root, 0)
+    helper(root, 0)
 
     return levels
 
