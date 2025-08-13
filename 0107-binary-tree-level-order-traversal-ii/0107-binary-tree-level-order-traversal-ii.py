@@ -4,20 +4,16 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-'''
-[3,9,20,null,null,15,7]
-[1]
-[]
-'''
+
 from collections import deque
 
 class Solution:
     def levelOrderBottom(self, root: Optional[TreeNode]) -> List[List[int]]:
-        return aug13_25(root)
+        return aug12_25(root)
 
 def aug13_25(root):
-    '''TC = n, SC = n'''
-    
+    '''BFS, TC = n, SC = n'''
+
     levels = []
 
     if root is None:
@@ -43,13 +39,36 @@ def aug13_25(root):
         levels.insert(0, level)
 
     return levels
-            
 
+def aug12_25(root):
+    '''DFS, TC = n, SC = n'''
+    
+    levels = []
 
+    if root is None:
+        return levels
 
+    def helper(node, depth):
 
+        if len(levels) == depth:
+            levels.append([])
 
+        levels[depth].append(node.val)
 
+        if node.left:
+            helper(node.left, depth + 1)
+        if node.right:
+            helper(node.right, depth + 1)
+
+    helper(root, 0)
+
+    return levels[::-1]
+
+'''
+[3,9,20,null,null,15,7]
+[1]
+[]
+'''
 
     
 def sol(root):
