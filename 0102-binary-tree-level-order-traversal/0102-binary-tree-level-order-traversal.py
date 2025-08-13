@@ -52,7 +52,8 @@ def aug12_25(root):
 
 
 def aug13_25(root):
-
+    '''DFS, TC = n, SC = n'''
+    
     levels = []
 
     if root is None:
