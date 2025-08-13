@@ -13,8 +13,43 @@ from collections import deque
 
 class Solution:
     def levelOrderBottom(self, root: Optional[TreeNode]) -> List[List[int]]:
-        return sol(root)
-    
+        return aug13_25(root)
+
+def aug13_25(root):
+
+    levels = []
+
+    if root is None:
+        return levels
+
+    q = deque()
+    q.append(root)
+
+    while q:
+        level = []
+        level_len = len(q)
+
+        for _ in range(level_len):
+
+            node = q.popleft()
+            level.append(node.val)
+
+            if node.left:
+                q.append(node.left)
+            if node.right:
+                q.append(node.right)
+
+        levels.insert(0, level)
+
+    return levels
+            
+
+
+
+
+
+
+
     
 def sol(root):
 
