@@ -16,7 +16,8 @@ class Solution:
         return aug13_25(root)
 
 def aug13_25(root):
-
+    '''TC = n, SC = n'''
+    
     levels = []
 
     if root is None:
