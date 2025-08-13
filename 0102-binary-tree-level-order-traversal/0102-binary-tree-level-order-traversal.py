@@ -1,5 +1,3 @@
-from collections import deque
-
 '''
 Level Order Traversal means BFS (Breadth First Search). BFS is done using queue.
 '''
@@ -8,6 +6,8 @@ Level Order Traversal means BFS (Breadth First Search). BFS is done using queue.
 [1]
 []
 '''
+from collections import deque
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -16,10 +16,10 @@ Level Order Traversal means BFS (Breadth First Search). BFS is done using queue.
 #         self.right = right
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        return aug12_25(root)
+        return aug13_25(root)
 
 def aug12_25(root):
-    '''TC = n, SC = n'''
+    '''BFS, TC = n, SC = n'''
 
     levels = []
 
@@ -49,6 +49,31 @@ def aug12_25(root):
         level += 1
 
     return levels
+
+
+def aug13_25(root):
+
+    levels = []
+
+    def helper(node, depth):
+
+        if len(levels) == depth:
+            levels.append([])
+
+        levels[depth].append(node.val)
+
+        if node.left:
+            helper(node.left, depth + 1)
+        if node.right:
+            helper(node.right, depth + 1)
+
+    if root:
+        helper(root, 0)
+
+    return levels
+
+        
+
 
 
     
