@@ -9,7 +9,8 @@ from collections import deque
 class Solution:
     def findTarget(self, root: Optional[TreeNode], k: int) -> bool:
         # return aug15_25(root, k)
-        return aug16_25(root, k)
+        # return aug16_25(root, k)
+        return aug17_25(root, k)
 
 
 def aug15_25(root, k):
@@ -50,6 +51,39 @@ def aug16_25(root, k):
             q.append(node.right)
 
     return False
+
+
+def aug17_25(root, k):
+    '''BST and Two-Pointer, TC = n, SC = n'''
+
+    def inorder(node):
+
+        if node is None:
+            return []
+
+        return inorder(node.left) + [node.val] + inorder(node.right)
+
+    
+    nums = inorder(root)
+
+    l = 0
+    r = len(nums)-1
+
+    while l < r:
+        
+        x, y = nums[l], nums[r]
+        total = x + y
+
+        if total == k:
+            return True
+        elif total < k:
+            l += 1
+        elif total > k:
+            r -= 1
+    
+    return False
+
+
 
 
 
