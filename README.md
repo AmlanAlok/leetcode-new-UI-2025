@@ -6,6 +6,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0234-palindrome-linked-list) |
 | [0408-valid-word-abbreviation](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0408-valid-word-abbreviation) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0496-next-greater-element-i) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0463-island-perimeter) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -87,6 +90,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0463-island-perimeter) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
@@ -105,6 +109,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -117,8 +122,13 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0146-lru-cache) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
