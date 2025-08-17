@@ -10,7 +10,7 @@ class Solution:
         return aug16_25(root)
 
 def aug16_25(root):
-    '''TC = n, SC = n'''
+    '''BFS, TC = n, SC = n'''
 
     if root is None:
         return []
