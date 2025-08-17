@@ -12,6 +12,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0032-longest-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0257-binary-tree-paths) |
 | [0408-valid-word-abbreviation](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0408-valid-word-abbreviation) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -78,6 +79,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0270-closest-binary-search-tree-value) |
 | [0463-island-perimeter](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -115,6 +117,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0270-closest-binary-search-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
@@ -131,6 +134,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0270-closest-binary-search-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Doubly-Linked List
@@ -142,4 +146,8 @@
 | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0270-closest-binary-search-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
