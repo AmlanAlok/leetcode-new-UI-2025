@@ -6,7 +6,23 @@
 #         self.right = right
 class Solution:
     def closestValue(self, root: Optional[TreeNode], target: float) -> int:
-        return aug16_25(root, target)
+        return aug15_25(root, target)
+
+
+def aug15_25(root, target):
+    '''BST, TC = H, SC = 1 where H = height of the tree'''
+    closest = root.val
+
+    while root:
+        n = root.val
+        closest = min([n, closest], key = lambda x: (abs(x - target), x))   # important
+        
+        if target < n:
+            root = root.left
+        else:
+            root = root.right
+    
+    return closest
 
 
 def aug16_25(root, target):
@@ -21,8 +37,6 @@ def aug16_25(root, target):
     nums = inorder(root)
 
     return min(nums, key = lambda x: abs(x - target))
-
-
 
 
 def aug16_25_fail(root, target):
