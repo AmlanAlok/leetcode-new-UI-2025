@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0344-reverse-string) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0463-island-perimeter](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0496-next-greater-element-i) |
@@ -161,4 +163,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
