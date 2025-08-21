@@ -18,6 +18,7 @@
 | [0032-longest-valid-parentheses](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0032-longest-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0408-valid-word-abbreviation](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0408-valid-word-abbreviation) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0146-lru-cache) |
+| [0387-first-unique-character-in-a-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Monotonic Stack
@@ -167,4 +169,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0015-3sum) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
