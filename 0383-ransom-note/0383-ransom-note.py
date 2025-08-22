@@ -46,6 +46,9 @@ class Solution:
 def aug21_25(ransomNote, magazine):
     '''TC = n, SC = 26 = 1'''
 
+    if len(ransomNote) > len(magazine):         #optimization
+        return False
+
     d = {}
 
     for c in magazine:
