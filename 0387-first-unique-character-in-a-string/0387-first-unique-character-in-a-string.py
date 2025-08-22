@@ -3,21 +3,16 @@ class Solution:
         return aug21_25(s)
 
 def aug21_25(s):
-    '''TC = n, SC = n'''
+    '''TC = n, SC = 26 = 1'''
+    
     d = {}
 
     for i, c in enumerate(s):
-        
-        if c not in d:
-            d[c] = [i, 1]
-        else:
-            temp = d[c]
-            temp[1] += 1
-            d[c] = temp
+        d[c] = d.get(c, 0) + 1
 
-    for k, v in d.items():
-        if v[1] == 1:
-            return v[0]
+    for i, c in enumerate(s):
+        if d[c] == 1:
+            return i
 
     return -1
 
