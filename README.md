@@ -19,6 +19,7 @@
 | [0242-valid-anagram](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0408-valid-word-abbreviation](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0408-valid-word-abbreviation) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -179,5 +181,6 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
