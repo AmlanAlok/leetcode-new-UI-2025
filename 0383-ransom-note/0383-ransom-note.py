@@ -2,7 +2,7 @@ from collections import Counter
 
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        return self.ans_2(ransomNote, magazine)
+        return aug21_25(ransomNote, magazine)
     
     def ans_2(self, ransomNote: str, magazine: str) -> bool:
         
@@ -24,10 +24,10 @@ class Solution:
             
         return True
     
-    # TC = O(n+m)
-    # SC = O(m)
+    
     def ans_1(self, ransomNote: str, magazine: str) -> bool:
-        
+        # TC = O(n+m)
+        # SC = O(m)
         dict = Counter(magazine)            # TC = O(m)
         print(dict)
         
@@ -41,5 +41,22 @@ class Solution:
                 return False
             
         return True
-                
-        
+
+
+def aug21_25(ransomNote, magazine):
+    '''TC = n, SC = 26 = 1'''
+
+    d = {}
+
+    for c in magazine:
+        d[c] = d.get(c, 0) + 1
+
+    for c in ransomNote:
+        if c in d and d[c] > 0:
+            d[c] -= 1
+        else:
+            return False
+    
+    return True
+
+    
