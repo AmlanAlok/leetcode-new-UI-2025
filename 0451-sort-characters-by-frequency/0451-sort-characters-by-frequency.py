@@ -5,13 +5,14 @@ class Solution:
 def aug21_25(s):
     '''TC = n + k log(k), SC = n, where n = length of input string and k = no. of unique char in the string'''
     '''TC = n log(n) if input has all unique chars'''
-    
+
     d = {}
 
     for c in s:
         d[c] = d.get(c, 0) + 1
     
-    sorted_d = dict(sorted(d.items(), key = lambda x: x[1], reverse = True))        # TC = k log(k)
+    # TC = k log(k)
+    sorted_d = dict(sorted(d.items(), key = lambda x: x[1], reverse = True))    #important     
 
     res = []            # SC = n
 
