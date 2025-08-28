@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0234-palindrome-linked-list](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0344-reverse-string) |
 | [0408-valid-word-abbreviation](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0408-valid-word-abbreviation) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0155-min-stack) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0170-two-sum-iii-data-structure-design) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0011-container-with-most-water](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0463-island-perimeter](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0503-next-greater-element-ii) |
@@ -75,6 +78,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0146-lru-cache) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0242-valid-anagram](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0387-first-unique-character-in-a-string) |
@@ -197,4 +201,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0451-sort-characters-by-frequency) |
+## Data Stream
+|  |
+| ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0170-two-sum-iii-data-structure-design) |
 <!---LeetCode Topics End-->
