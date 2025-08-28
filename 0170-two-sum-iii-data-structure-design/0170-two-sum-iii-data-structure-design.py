@@ -4,10 +4,12 @@ class TwoSum:
         self.d = {}
 
     def add(self, number: int) -> None:
+        '''TC = 1'''
         self.d[number] = self.d.get(number, 0) + 1
         
     def find(self, value: int) -> bool:
-
+        '''TC = n, SC = n'''
+        
         nums = self.d.keys()
 
         for n in nums:
