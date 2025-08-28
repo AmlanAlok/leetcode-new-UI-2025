@@ -62,6 +62,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -72,6 +73,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0383-ransom-note) |
