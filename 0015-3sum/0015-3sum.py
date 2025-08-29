@@ -1,6 +1,51 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
+        # return aug21_25(nums)
         return ans(nums)
+
+def aug21_25(nums):
+    '''TC = n log(n) + n^2, SC = '''
+    nums.sort()
+    N = len(nums)
+    ans = []
+    last = None
+
+    for i in range(N-2):
+
+        if nums[i] == last:
+            continue
+
+        j, k = i+1, N-1
+        
+        while j < k:
+
+            x, y, z = nums[i], nums[j], nums[k]
+            _sum = x + y + z
+
+            if _sum == 0:
+                ans.append([nums[i], nums[j], nums[k]])
+                j+=1
+
+            elif _sum < 0:
+                prev = nums[j]
+
+                while j < k and nums[j] == prev:
+                    j += 1
+            
+            elif _sum > 0:
+                prev = nums[k]
+
+                while j < k and nums[k] == prev:
+                    k -= 1
+            
+        last = nums[i]
+    
+    return ans
+
+
+
+
+
 
     
 def ans(nums):
@@ -75,7 +120,6 @@ def ans_TLE(nums):
     
     return list(ans)
           
-
 def jan5(nums):
     
     nums.sort()
@@ -245,11 +289,11 @@ def fail1(self, nums: List[int]) -> List[List[int]]:
     if nums is [] or nums is [0]:
         return []
 
-#         d={v: i for i,v in enumerate(nums)}
+        d={v: i for i,v in enumerate(nums)}
 
-#         di = d.items()
+        di = d.items()
 
-#         print('a')
+        print('a')
 
     d={}
     a=[]
