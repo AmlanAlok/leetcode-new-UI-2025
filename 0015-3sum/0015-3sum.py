@@ -24,7 +24,8 @@ def aug21_25(nums):
 
             if _sum == 0:
                 ans.append([nums[i], nums[j], nums[k]])
-                j+=1
+                j += 1
+                k -= 1
 
             elif _sum < 0:
                 prev = nums[j]
