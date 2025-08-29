@@ -4,7 +4,9 @@ class Solution:
         # return ans(nums)
 
 def aug21_25(nums):
-    '''TC = n log(n) + n^2, SC = '''
+    '''TC = n log(n) + n^2, SC = n'''
+    '''SC of Sorting depends on language, Python is n and Java/C++ is log(n)'''
+
     nums.sort()
     N = len(nums)
     ans = []
@@ -31,25 +33,18 @@ def aug21_25(nums):
                     j += 1
 
             elif _sum < 0:
-                prev = nums[j]
 
-                while j < k and nums[j] == prev:
+                while j < k and nums[j] == y:
                     j += 1
             
             elif _sum > 0:
-                prev = nums[k]
 
-                while j < k and nums[k] == prev:
+                while j < k and nums[k] == z:
                     k -= 1
             
         last = nums[i]
     
     return ans
-
-
-
-
-
 
     
 def ans(nums):
