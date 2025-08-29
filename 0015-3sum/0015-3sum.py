@@ -1,7 +1,7 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        # return aug21_25(nums)
-        return ans(nums)
+        return aug21_25(nums)
+        # return ans(nums)
 
 def aug21_25(nums):
     '''TC = n log(n) + n^2, SC = '''
@@ -26,6 +26,9 @@ def aug21_25(nums):
                 ans.append([nums[i], nums[j], nums[k]])
                 j += 1
                 k -= 1
+
+                while j < k and nums[j] == y:
+                    j += 1
 
             elif _sum < 0:
                 prev = nums[j]
