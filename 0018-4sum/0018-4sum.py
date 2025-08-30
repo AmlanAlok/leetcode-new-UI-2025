@@ -4,12 +4,13 @@ class Solution:
 
 def aug29_25(nums, target):
     '''TC = n log(n) + n^3, SC = n for sorting'''
-    
+
     N = len(nums)
-    nums.sort()
 
     if N < 4:
         return []
+
+    nums.sort()
 
     ans = []
     last_a = None
@@ -58,3 +59,11 @@ def aug29_25(nums, target):
     
     return ans
 
+'''
+[2,2,2,2,2]
+8
+[1,0,-1,0,-2,2]
+0
+[1,0]
+0
+'''
