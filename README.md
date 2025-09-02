@@ -16,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0242-valid-anagram) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0146-lru-cache) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0242-valid-anagram](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0242-valid-anagram) |
@@ -208,4 +210,8 @@
 |  |
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0170-two-sum-iii-data-structure-design) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AmlanAlok/leetcode-new-UI-2025/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
